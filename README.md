@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>
-  hey there
+  Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+ ---
+
+### :man_technologist: About Me :
+- 🌱 I’m currently learning data structures, algorithms, and web dev
+- 🤔 I’m looking for help with react and tailwind
+- 💬 Ask me about soccer, video games, or anime!
+- 📫 How to reach me: mailto:earmando29@gmail.com
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/armando-espinoza999/">
