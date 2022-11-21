@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data structures, algorithms, and web dev
 - 🤔 I’m looking for help with react and tailwind
 - 💬 Ask me about soccer, video games, or anime!
-- 📫 How to reach me: mailto:earmando29@gmail.com
+- 📫 How to reach me: <a href="mailto:earmando29@gmail.com">earmando29@gmail.com</a>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/armando-espinoza999/">
