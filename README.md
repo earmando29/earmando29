@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 </h1>
 
 ### :man_technologist: About Me :
-- 🌱 I’m currently learning data structures, algorithms, and web dev
-- 🤔 I’m looking for help with react and tailwind
-- 💬 Ask me about soccer, video games, or anime!
+- 🌱 I’m currently learning web dev, XR dev
+- 🤔 I’m looking for help with XR dev
+- 💬 Ask me about soccer or video games!
 - 📫 How to reach me: [earmando29@gmail.com](mailto:earmando29@gmail.com)
 
 <div id="badges" align="center">
